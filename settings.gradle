@@ -1,0 +1,4 @@
+
+include ':ffmpegxutil'
+include ':app'
+rootProject.name = "FFmpegX"
